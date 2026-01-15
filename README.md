@@ -1,4 +1,4 @@
-# Perception-Subsystem-Telemetry-Disengagement-Analysis
+
 # Perception Subsystem – Telemetry & RoboTaxi Disengagement Analysis
 
 This project demonstrates **end-to-end analysis of RoboTaxi telemetry and disengagement data**, focusing on the **Perception subsystem**. The goal was to identify **sensor confidence drops, object detection failures, and environmental edge cases** and improve system reliability using **Python, SQL, Machine Learning, and Generative AI**.
